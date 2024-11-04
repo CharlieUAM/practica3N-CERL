@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\CERL practica3N\loginIn\bin\Debug\loginIn.exe.config
+C:\Users\labc202\Documents\CERL practica3N\loginIn\bin\Debug\loginIn.exe
+C:\Users\labc202\Documents\CERL practica3N\loginIn\bin\Debug\loginIn.pdb
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\LoginForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\loginIn.Form1.resources
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\loginIn.Properties.Resources.resources
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\loginIn.exe
+C:\Users\labc202\Documents\CERL practica3N\loginIn\obj\Debug\loginIn.pdb
